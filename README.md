@@ -1,3 +1,4 @@
-O projeto de estudo mais atual são os repositorios na organização Apartamento 131
+O projeto de estudo mais atual:
 
-https://github.com/Apartamento-131
+https://github.com/gabsnery/apto34-aplication
+https://github.com/gabsnery/apto34-api
